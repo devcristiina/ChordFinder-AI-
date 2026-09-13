@@ -1,0 +1,19 @@
+{
+  "name": "ChordFinder AI",
+  "short_name": "ChordFinder",
+  "description": "Encontre acordes, monte progressões e toque junto com sua música.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080b14",
+  "theme_color": "#7c5cff",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgcng9IjIwIiBmaWxsPSIjN2M1Y2ZmIi8+PHRleHQgeT0iLjllbSIgZm9udC1zaXplPSI5MCIgeD0iMTAlIj7wn464PC90ZXh0Pjwvc3ZnPg==",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
